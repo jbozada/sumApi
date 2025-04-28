@@ -25,7 +25,7 @@ Los servicios principales del proyecto son:
 4. **Kafka**: Comunicación asíncrona de resultados.
 5. **Redis**: Cache de configuraciones para `property-service`.
 6. **PostgreSQL**: Base de datos para historial.
-7. **Kafka UI**: Interfaz para monitorear Kafka.
+7. **Kafka UI**: Interfaz para monitorear Kafka (`http://localhost:8083/ui/clusters/local/all-topics?perPage=25`).
 
 ## Docker Compose
 
