@@ -46,8 +46,8 @@ Todos los servicios se definen en `docker-compose.yml`.
 
 - Esperar a que los contenedores estén "healthy" antes de usar la API.
 - Swagger disponible en:
-  - Sum API: `http://localhost:8081/swagger-ui`
-  - Property Service: `http://localhost:8084/swagger-ui`
+  - Sum API: `http://localhost:8081/swagger-ui/index.html`
+  - Property Service: `http://localhost:8084/swagger-ui/index.html`
 
 ## Puertos locales necesarios
 
